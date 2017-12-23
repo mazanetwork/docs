@@ -17,6 +17,6 @@ This document presumes use of ```docker-compose.yml``` files included when you c
 QmWsmEE9PL9rTiJtdayp8cfQoMcMqhgwxZodqtPa6A5NM9 MAZA
 
  ```
- ipfs pin -r QmWsmEE9PL9rTiJtdayp8cfQoMcMqhgwxZodqtPa6A5NM9
+ ipfs pin add -r QmWsmEE9PL9rTiJtdayp8cfQoMcMqhgwxZodqtPa6A5NM9
  ipfs get -o /data/tarballs QmWsmEE9PL9rTiJtdayp8cfQoMcMqhgwxZodqtPa6A5NM9/MAZA/mazanodes/databases/mongodb-data_20171223.tbz2
  ```
