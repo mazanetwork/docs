@@ -1,0 +1,2 @@
+# docs
+MAZA Network Documentation
